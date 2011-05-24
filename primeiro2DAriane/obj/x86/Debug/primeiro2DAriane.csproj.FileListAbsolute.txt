@@ -1,0 +1,14 @@
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\Content\jardim.xnb
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\primeiro2DAriane.exe
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\primeiro2DAriane.pdb
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\obj\x86\Debug\primeiro2DAriane.exe
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\obj\x86\Debug\primeiro2DAriane.pdb
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\Content\menino.xnb
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\Content\zumbi.xnb
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\Content\backmusic.xnb
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\Content\novoZumbi.xnb
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\Content\explosion.xnb
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\Content\backmusic.wma
+C:\Users\Ariane\Documents\Mackenzie\6o semestre\Programação de Jogos\Les Naves\primeiro2DAriane\primeiro2DAriane\bin\x86\Debug\Content\font.xnb

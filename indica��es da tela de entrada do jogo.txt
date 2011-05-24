@@ -1,0 +1,5 @@
+Fonte para o jogo: agency FB
+
+figura: zumbi ao centro
+
+fundo amarelo
